@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\melik\IdeaProjects\week10\src\main\java\org\example\App.java">
+<error line="1" severity="error" message="package-info.java dosyası eksik." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+<file name="C:\Users\melik\IdeaProjects\week10\src\test\java\org\example\AppTest.java">
+<error line="1" severity="error" message="package-info.java dosyası eksik." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+</file>
+</checkstyle>
